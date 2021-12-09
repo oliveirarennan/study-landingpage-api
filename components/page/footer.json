@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_footers",
+  "info": {
+    "name": "footer",
+    "icon": "arrow-down"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
